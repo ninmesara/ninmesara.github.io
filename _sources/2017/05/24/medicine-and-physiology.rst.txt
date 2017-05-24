@@ -1,0 +1,108 @@
+Medicine and Physiology for the Non Doctor
+==========================================
+
+.. author:: default
+.. categories:: medicine
+.. tags:: medicine
+.. comments::
+
+I plan on covering a number of topics.
+I might split or join some of those topics if I feel it makes more sense that way.
+In that case I'll update this index.
+
+Don't expect textbook ready content...
+That needs a serious time investment, the help of a professional editor,
+and given the breadth of what I'm trying to cover, a team of co-authors.
+While I do have a plan, I might scrape parts of it or rewrite it furiously
+if it doesn't work well.
+
+I'll try to keep a regular schedule I'm comfortable with,
+but it might take some time until such schedule emerges.
+I appreciate reader feedback enormously, and I accept reader's
+suggestions for topics they might wish to see covered.
+To cover some of these topics appropriately, I will need to do some reading
+of my own, 
+
+The goal here is to be informative in a way that is understandable to laymen,
+but I think some medical students or even doctors might benefit from reading.
+I will try to bring in something new, because there's no need to parrot
+stuff that's easily available elsewhere.
+
+The focus here is more on understanding the human body, both in health and disease
+as well as some selected topics about the practice of Medicine which I think
+might be interesting for non medical readers.
+I won't focus much on actionable medical advice.
+In fact, I don't think I'll ever give much medical advice except for the
+*Three Mighty Pillars Of Healthy Living*:
+
+1. Stop smoking!
+2. Stop smoking!
+3. Stop smoking!
+
+For people who do not smoke, the *Three Pillars* are:
+
+1. Don't start.
+2. Don't start.
+3. Don't feel too smug for never having started.
+
+Biology Basics
+~~~~~~~~~~~~~~
+
+* *What is Life?*
+* *Molecules of Life*
+* *The Physics and Chemistry of Life*
+* *The Cell as the Basis of Life*
+* *Moving Molecules Around*
+* *What is Death?*
+* *Reading the Genetic Code*
+* *Communication Between Cells*
+
+Basics of Clinical Medicine
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* *Principles of Bioethics*
+* *Medical Education and Specialization*
+* *Diagnosis - Symptoms: When the Doctor Talks you You*
+* *Diagnosis - Signs: When the Doctor Touches You*
+* *Diagnosis - Other Investigations: When the Doctor uses Tools*
+* *Treatment Part I: Pharmacology, or when the Doctor Drugs You*
+* *Treatment Part II: Surgery, or when the Doctor Cuts You Open*
+* *Treatment Part III: Capabilities and Limits of Medicine, or When the Doctor Can't Do Much*
+* *Prognosis: The Pitfalls of Trying to Predict the Future*
+* *Cost: The Costs and Benefits of Medicine*
+
+Human Physiology and Medicine
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* *Basic Organization of the Human Body*
+* *The Good Guys - The Immune System*
+* *The Bad Guys - Infectious diseases and Infestations*
+* **Bonus**: *AIDS*
+* *Good Cope Gone Rogue - Autoimmunity*
+* **Bonus**: *Organ Transplantation*
+* *The Danger from the Inside - Cancer*
+* *The Circulation*
+* *The Heart*
+* **Bonus**: *Cardiovascular Disease*
+* *Gastrointestinal System - Part I: the Danger Inside*
+* *Gastrointestinal System - Part II: Keeping you Fed*
+* *Gastrointestinal System - Part III: The Liver*
+* *The Kidneys and Dialysis*
+* *Inter System Communication - The Hormones*
+* **Bonus**: *Diabetes, a multi-system disease*
+* *Bones and Joints*
+* **Bonus**: *Trauma*
+
+The Nervous System
+~~~~~~~~~~~~~~~~~~
+
+The nervous system is complex enough to deserver it's own section.
+
+* *Fast Communication: Neurons*
+* *Sensing the World: Touch*
+* *Sensing the World: Sight*
+* *Sensing the World: Hearing*
+* *Sensing the World: Taste and Smell*
+* *Moving Around: The Muscles*
+* *Moving Around: Bones and Joints*
+* *Moving Around: the Brain and Spinal Chord*

@@ -1,0 +1,14 @@
+About
+=====
+
+I am a young doctor who likes to talk about stuff.
+I started this blog to see if also like to *write* about things.
+
+The name of this blog comes from Nin-Me-Sa-Ra, a group of Ancient Sumerian
+religious hymns, written by the priestess Enheduanna.
+They are part of the first texts in which the author's name is known.
+A blog is always a little exercise of vanity
+(even when written under a pseudonym), and I think it makes sense
+to name it after the works of the first known author in history.
+
+.. comments::

@@ -1,0 +1,521 @@
+Recommendations
+===============
+
+This page is under construction, and will probably be forever.
+I might split it into smaller ones if it keeps growing.
+
+The recommendations are mostly things I remembered reading that
+might be interesting for others.
+Contains some non recommendations, which might be more useful than the
+recommendations themselves. 
+
+.. contents::
+    :local:
+    :backlinks: none
+
+
+Recommended Reading - Online
+----------------------------
+
+Math Resources
+~~~~~~~~~~~~~~
+
+Kut-the-knot
+++++++++++++
+
+Link `here <http://www.cut-the-knot.org/>`__.
+A good introduction to several math topics.
+Uses some java aplets that don't seem to run very well in some modern web browsers.
+
+Keran Kedlaya's book of geometry
+++++++++++++++++++++++++++++++++
+
+You can find the PDF and TeX files `here <http://kskedlaya.org/geometryunbound/>`__.
+A good free book of geometry for students interested in national or international
+mathematical competitions, but it might be useful for others.
+Short, with nice explanations, and with a good treatment of some "classic" techniques like *angle-chasing*.
+It will teach you a lot, but you have to be willing to expend some effort on the exercises.
+Assumes proeficiency with Algebra.
+Sadly, it contains no figures, but you can often draw them yourself from the text.
+
+
+Miscelaneous Blogs
+~~~~~~~~~~~~~~~~~~
+
+Slate Star Codex
+++++++++++++++++
+
+Link `here <http://slatestarcodex.com/>`__.
+*In a mad world, all blogging is psychiatry blogging.*
+A very ecletic blog, featuring book reviews, discussions of statistics, psychiatry,
+healthcare, social justice discussions and much more.
+Don't miss the occasional short story. The're great.
+
+Scott's livejournal
++++++++++++++++++++
+
+Scott's blog before `Slate Star Codex <http://slatestarcodex.com/>`_.
+Will add some highlights soon.
+
+shtetloptimized.com
++++++++++++++++++++
+
+Link `here <http://www.scottaaronson.com/blog/>`__.
+A blog by *the other Scott* (Scott Aaronson).
+Focuses on complexity theory research, with occasional forays into other themes, such as philosophy.
+It is often very tachnical, but he is good with analogies, and will at least fool you
+into thinking you understand some of that stuff.
+
+Scott Aaronson has also written
+`Who Can Name the Biggest Number? <http://www.scottaaronson.com/writings/bignumbers.html>`_
+
+Lesswrong
++++++++++
+
+This is the one of the sites that started the whole Rationalist movement.
+Content quality is in my opinion somewhat variable, but it might be just
+a result of the *Typical Mind Fallacy* (see below).
+Some highlights:
+
+`The True Prisoner Dilemma <http://lesswrong.com/lw/tn/the_true_prisoners_dilemma/>`_, by Eliezer Yudkowsky.
+This is the explanation of the `Prisoner Dilemma <https://en.wikipedia.org/wiki/Prisoner%27s_dilemma>`_
+that I've been missing my whole life.
+Eliezer argues in a very convincing way that most people have an incorrect understading of the classic prisoner dilemma.
+That is, their intuition doesn't match the mathematical discription.
+By contriving a very unlikely situation, Eliezer manages to fore our intuition to match the utility
+caculations in the payoff matrix.
+Bonus points for `this exchange <http://lesswrong.com/lw/tn/the_true_prisoners_dilemma/#display_t1_n0i>`_
+in the comments.
+Robin Hanson, a University Professor
+and one of the athors at `Overcoming Bias <http://www.overcomingbias.com/>`_
+says that:
+
+  Most every game theory text and lecture I know gets this right,
+  but even when we say the right thing to students over and over,
+  they mostly still hear it the wrong way you initially heard it.
+  This is just part of the facts of life of teaching game theory.
+
+Thus missing the point completely: if his students are "hearing it wrong",
+maybe the teacher is *not explaining it right*, and thus the need for a better 
+visualization of the payoff matrix.
+Eliezer attempts to provide such visualization instead of asserting that
+having students confused at the end of the lesson is a *fact of life*.
+In my opinion, he succeeds.
+
+
+**The Typical Mind Fallacy**, introduced in
+`Generalizing from One Example <http://lesswrong.com/lw/dr/generalizing_from_one_example/>`_,
+by Yvain (this guy reminds me of Scott Alexander... I wonder why).
+He argues that people seem to think in fundamentally different ways, and that people who extrapolate
+from their own personal experience might be getting everything wrong.
+This might be obvious to you, but maybe that's part of the typical mind fallacy.
+
+
+Webcomics
+~~~~~~~~~
+
+`xkcd <https://xkcd.com/>`_ - A series of disjointed comics, featuring some recurrent characters.
+Focuses on nerd topics, but some of them might have a wider appeal.
+Don't miss the Hat Guy "love story":
+Some highlights:
+
+* The cloud
+* The hat guy love story:
+
+`SMBC (Saturday Morning Breakfast Cereal) <https://www.smbc-comics.com/>`_ - Similar in spirit
+to xkcd, but with a different art style.
+Heavy focus on nerd topics, with loads of dark humour and sexual jokes. 
+
+`Irregular Webcomic <http://www.irregularwebcomic.net/>`_. A tale of epic proportions
+featuring `the Mythbusters <http://www.irregularwebcomic.net/cast/mythbusters.html>`_,
+`Indiana Jones and the Nazis <http://www.irregularwebcomic.net/cast/cliffhangers.html>`_ (actually *Monatana Jones*) ,
+`Death <http://www.irregularwebcomic.net/cast/death.html>`_,
+a `D&M campaign <http://www.irregularwebcomic.net/cast/fantasy.html>`_,
+`scientists <http://www.irregularwebcomic.net/cast/scientificrevolution.html>`_,
+and `The Author <http://www.irregularwebcomic.net/cast/>`_.
+Bonus points for an excelent explanation of the
+`Banach-Tarski paradox <http://www.irregularwebcomic.net/2339.html>`_
+(not in webcomic form, unfortunately).
+
+`Darths and Droids <http://www.darthsanddroids.net/episodes/0001.html>`_.
+What if Star Wars was the result of a Dungeons & Dragons Campaign set in a Science Fiction setting,
+and the crazy plot were just the players trying to mess up with the Game Master?
+Started in Episode I (*The Phantom Menace*) and is currently in episode VI (*The Return of the Jedi*).
+The comic uses only frames from the movies, but "dubbed" with dialog baloons.
+The story diverges quite a bit from the original.
+It was inspired by `DM of the Rings <http://www.shamusyoung.com/twentysidedtale/?p=612>`_,
+which in my opinion is not as good.
+
+Miscellaneous
+~~~~~~~~~~~~~
+
+Gwern's webpage
++++++++++++++++
+
+You can find it `here <https://www.gwern.net/>`__.
+Writes about the nature of causality, pharmacology, Bitcoin, fanfiction, etc.
+You probably won't be interested in everything in this website,
+but there's something for everyone.
+
+
+Fiction (prose)
+~~~~~~~~~~~~~~~
+
+Original
+++++++++
+
+Scott Alexander
+~~~~~~~~~~~~~~~
+
+* `Unsong <http://unsongbook.com/>`_, a distillation of previous ideas Scott has had for a story.
+  Epic in scope, doesn't quite live up to the high expectations of its first strong chapters.
+  Very original take on magic systems.
+  Has both tragedy and comedy, and overdoses on puns (in a good way).
+  Should be credited with the creating of a new kind of pun, the *biblical whale pun*.
+  `Please don't call this rational fiction <https://www.reddit.com/r/rational/comments/4sv6te/meta_is_unsong_rational_fic/>`_.
+  **Mild Spoilers ahead**: The mood changes quite drastically from urban (kabbahlah inspired) fantasy
+  with a very strong exploration of an original magic system,
+  to full blown very soft unrestrained (kabbahlah inspired) fantasy, complete with Angels, Archangels,
+  Demons, Messiahs, and Prophecies.
+  In my opinion, this change doesn't work that well.
+  Still, quite good.
+
+Several short stories:
+
+* `...And I Show You How Deep The Rabbit Hole Goes <http://slatestarcodex.com/2015/06/02/and-i-show-you-how-deep-the-rabbit-hole-goes/>`_,
+  based on a Tumblr post of all things.
+  The title is a reference to the first matrix movie.
+  In this short story supernatural entity offers some humans a choice among 8 superpowers.
+  The world will never again be the same.
+  Very good, as long as you don't think toooo much about the plot.
+  To really appreciate this, you need to know about
+  `the red pill movement <https://www.reddit.com/r/TheRedPill/>`_.
+  Click the previous link at your own risk.
+  
+* `A Modern Myth <http://slatestarcodex.com/2017/02/27/a-modern-myth/>`_.
+  Probably the best short story Scott has ever written.
+  I won't spoil it further.
+  Trust me and just read it.
+
+* `World War II <http://squid314.livejournal.com/275614.html>`_.
+  World War II from the perspective of the cinema critic.
+
+Alexander Wales
+~~~~~~~~~~~~~~~
+
+* `Glimwarden <http://alexanderwales.com/glimwarden/>`_ (Work in progress, currently in a long hiatus).
+  A piece of rational fiction set in an original fantasy world.
+  Characters are realistic, and very relatable.
+  The atmosphere is very, very good.
+  This is reational fiction done right.
+
+* `Wizards <http://alexanderwales.com/the-astronauts-lament/>`_, (short story).
+  The colonization of space in a world with magic.
+  Good magic system, and some surprises.
+
+I do not recomend `Worm <https://parahumans.wordpress.com/>`_.
+
+Fanfiction
+++++++++++
+
+`Metropolitan Man <https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man>`_, by Alexander Wales (finished).
+Fanfiction based on Superman, set in the 1930's (when the character appeard in print for the first time).
+The story is told from the perspective of a rational (but still paranoid and callous) Lex Luthor and Louis Lane.
+The prose in the first paragraphs (maybe the whole first chapter) is not very good...
+Keep reading until chapters 3 or 4.
+If you don't like it by chapter 4, then quit.
+Characters are realistic, and the author really did his historical research on the time period.
+Lex Luthor's perspective on the dangers of Superman is engaging, and his schemes are clever and
+well thought out.
+My favourite (finished) piece of rational fiction.
+Unlike the original Superman books, this story is quite dark in places.
+Don't tell me I didn't warn you.
+
+`Imma wizerd <http://immawiserd.weebly.com/>`_, Harry Potter gangsta version.
+*Extremely* offensive but fun in the beginning.
+The fun kinda wears out as you advance into the story.
+
+`Walt Disney Presents: The Lord of the Rings <http://www.lotrfanfiction.com/viewstory.php?sid=9145&chapter=1>`_,
+by `jules14 <http://www.lotrfanfiction.com/viewuser.php?uid=1724>`_.
+Tries to answer the question: *What if Disney decided to write an animated adaptation of Lord of the Rings?*
+
+I **do not** recommend `Harry Potter and the Methods of Rationality <http://www.hpmor.com/>`_.
+`This critique <https://www.reddit.com/r/HPMOR/comments/3096lk/spoilers_all_a_critical_review_of_hpmor/>`_
+(by Alexander Wales) explains why.
+I endorse it 100% up to the experiments on the transfiguration of bats, because that's where I quit.
+Alexander Wales is an excellent writer, and I trust his opinion on the parts I didn't read.
+
+Recomended Reading - Deadtree
+-----------------------------
+
+Fiction
+~~~~~~~
+
+Detective Stories
++++++++++++++++++
+
+`Name of the Rose <https://www.amazon.com/Name-Rose-Umberto-Eco/dp/0544176561>`_, by Umberto Ecco.
+On the surface, this is a detective story set in the middle ages, where a friar
+investigates a series of murders in an Abbey.
+On a deeper reading, it's almost a primer on Medieval history, architecture, culture and theology.
+Expect that some parts will get a little over your head, unless you're an expert in these things.
+
+More to come...
+
+Science Fiction
++++++++++++++++
+
+*Dune*, by Frank Herbert, is meh.
+You don't lose much by not reading it, despite how praised it is.
+The following books in the series are really bad.
+
+*Pandora's Star* and *Judas Unchained* (the sequel), by Peter F. Hamilton.
+They're long but well written, and the plot is interesting and intrincate.
+They'd benefit from cutting some less relevant parts, but as they are they're pretty good.
+
+*Rendezvous with Rama*, by Arthur C. Clark. A first contact story.
+Don't expect anything very deep, but the story is well written, even if the characters may be a little flat.
+This is understandable, as the story takes place during a very short time span.
+
+*2001 Spacy Odyssey*, by Arthur C. Clark. The book is based on the movie (not the other way around).
+The book is interesting and captures the atmosphere and mood of living alone
+in a spaceship for long periods, with the communication issues (mostly latency) imposed by the speed of light.
+
+*Hitchhiker's Guide to the Galaxy*, by Douglas Adams, books 1 and 2. The other books just aren't that funny.
+An example of British nonsense humor.
+
+Almost everything by *Jules Verne*. Dated but fun.
+Mixes scarily accurate predictions with an almost comical disregard for things like
+the laws of thermodynamics, and in more extreme cases, physics in general.
+English translations are very bad, though.
+The good part is that all the books are now in the public domain.
+You can find them on Project Gutenberg.
+Some highlights:
+
+* *Around the World in 80 Days*
+* *5 weeks in a Baloon*
+* *20,000 Leagues Under the sea*
+* *The Mysterious Island*
+* *From the Earth to the Moon* and *Around the Moon*.
+  These two books contain such a mixture between scarily accurate predictions and
+  epic physics fails that I'll write a detailed review someday.
+  Bonus points for the delightful caricature of the USA mixed with envious admiration.
+* *Robur the Conqueror*
+* *Michel Strogoff*
+* *Hector Servadac*
+
+The `Sandokan <https://en.wikipedia.org/wiki/Sandokan>`_, series, by Emilio Salgari.
+The books are good `ole' mighty whighty stories <http://tvtropes.org/pmwiki/pmwiki.php/Main/MightyWhitey>`_,
+even though the main character is actualy a Malaysian prince.
+He ends up acting like an ordinary educated european aristocrat most of the time.
+Most of the books take place in India, with the characters often remarking that the impact
+of the British Raj is mostly positive.
+
+Miscellaneous
++++++++++++++
+
+*Foucault's Pendulum*, by Umberto Ecco - An entertaining story, based on some Medieval myths.
+The title is a reference to the Foucault's Pendulum, which is a device that can be used
+to prove that the Earth rotates on an axis.
+
+`River God <>`_, Wilbur Smith. Part of a trilogy, books \#2 and \#3 are very bad.
+Don't read those.
+Set in a highly fictionalized version of Ancient Egypt, this book is practically alternate history.
+Nevertheless, it's one of the best books I've read on the impact of technology in society.
+The main character is implausibly knowleageable and quite insufferable at times,
+but the real main character in this book is technology change, and the way it affects the world.
+
+`Cryptonomicon <https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0060512806>`_, by Neal Stephenson.
+
+`Snow Crash <https://www.amazon.com/Snow-Crash-Neal-Stephenson/dp/0553380958>`_, by Neal Stephenson.
+In the near future, when capitalism runs rampant in a world without borders,
+or, for that matter, nation states, the Universe assumedly runs on Rule of Cool.
+This means physics (or for that matter linguistics or neuroscience) are not as respected as they should be.
+It's an interesting story as long as you don't dwell around the details too much.
+This is the story that popularized the word *avatar* to refer to a person's online persona
+and that inspired the *Google Earth* software.
+The name of my webpage is a hommage to a major plot point in this book. 
+Features (consensual) sex with an underage character (16yo, if I'm remembering correctly)
+as an important plot point, so don't read it if that's a no-go for you.
+
+`Hunt for the Red October <https://www.amazon.com/Hunt-October-Jack-Ryan-Novel/dp/0425240339>`_, by Tom Clancy.
+During the Cold War, a Soviet submarine gone rogue causes a worldwide search and destroy operation.
+Knowleadgeable people say that the depiction of naval tactics is very good.
+Features shameless capitalist propaganda near the end.
+Much better than other Tom Clancy books.
+
+*Limit*, by Frank Schätzing (english franslation from German)
+
+*Brief History of Almost Everything*, Bill Bryson - One of the best science books for the layman.
+Has the best description I've ever seen of what a cell looks like "from the inside".
+
+`Kim <https://www.amazon.com/Kim-Rudyard-Kipling/dp/1546571906>`_, by Rudyard Kipling.
+Some linguistic quirks, but a nice adventure in the British Raj.
+I don't recommend more well known *The Jungle Book* by the same author.
+
+`Sharpe <https://en.wikipedia.org/wiki/Sharpe_(novel_series)>`_ series of books, by Bernard Cornwal (I haven't read them all yet) -
+These books follow the (fictional) life and career of a British soldier (*Sharp*),
+who accompanies the Duke of Wellington in many of his campaigns.
+The books are basically an excuse to show Wellington's campaigns from the "ground level" view.
+
+The books are divided in two groups:
+
+* The ones set in India, with huge, epic battles but also smaller scale vignetes
+  featuring the exotic landscape and culture of India.
+* The ones set during the Peninsular War.
+  The Peninsular War was a war fought in the Iberian Peninsula by the Portuguese, English and Spanish
+  against Napoleon. The stories in these books are more small scale, and the action focuses in
+  smaller groups, in contrast to the more "epic" setting of the Indian books.
+
+I've read somewhere that the military tactics described are not always historically correct,
+but the main events do happen as they did in real life.
+In order to make his hero relevant, the author sometimes makes him take upon himself
+actions that were take by someone else in real life.
+For example:
+
+* in a battle where no English troops fought (only Scottish troops were there in real life),
+  the `Battle of Gawilghur <https://en.wikipedia.org/wiki/Capture_of_Gawilghur>`_,
+  the auhor contrives small English dettatchment just to have Sharpe there.
+* in another book, during the Assault on the Portuguese city of OPorto, under the control of the French,
+  Sharpe orders a Portuguese barber to cross the river with some barges to the English
+  side, so that the English can cross.
+  In real life the barber (whose name has been lost) did it all by himself.
+* in yet another book, the author conjures an abandoned Portuguese frotress out of thin air, so that,
+  again, geography puts Sharpe near the action.
+  The fake fortress was inspired by a real one, though.
+
+All these incorrections are explained by the author at the end of the books
+(I took these examples from the books themselves).
+If these little details are not a dealbreaker, the books are quite enjoyable.
+
+`Mila 18 <https://www.amazon.com/Mila-18-Leon-Uris/dp/0553241605>`_, by Leon Uris.
+Set in World War II, it tells the story of the Nazi's occupation of Poland,
+focusing on the desperate guerilla fight of the Jews in the Warsaw's ghetto.
+The fighting lasted for 42 days, longer than the it took the Nazis to occupy Poland.
+
+`Armageddon <https://www.amazon.com/Armageddon-Novel-Berlin-Leon-Uris/dp/1453258396>`_, by Leon Uris.
+The history of the occupation of Berlin, the  `Berlin Airlift <https://en.wikipedia.org/wiki/Berlin_Blockade>`_
+and its aftermath.
+Extremely racist in some parts, but overall a gripping story.
+
+`Tai-Pan <https://www.amazon.com/Tai-Pan-Asian-Saga-James-Clavell/dp/0440184622>`_, by James Clavel.
+
+*The Count of Montecristo*, by Alexande Dumas
+
+`American Gods <https://www.amazon.com/American-Gods-Novel-Neil-Gaiman/dp/0062572237>`_, Neil Gaiman.
+A bleak, dark portrait of the United States, especially the so-called "flyover states".
+The main character is drawn to a world where *Gods*
+live among mortals, largely stripped of their ancient power due to lack of belief.
+The story is not particularly engaging, but the atmosphere has it's charm.
+Highly explicit sexual content in some parts.
+
+`O Homem que Sabia Contar <https://www.presenca.pt/livro/o-homem-que-sabia-contar/index.ud121?from_zone=breadcrumb>`_
+(*The men who could count*),
+by Malba Tahan (pseudonym), written in Portuguese.
+AFAIK, there is no Eglish translation of this book, which is a shame.
+The book's plot is driven by a series of math problems.
+Most of the action takes place in Baghdad, just before the Mongol's conquest and destruction of the city.
+
+`O Cavaleiro da Dinamarca <https://www.librarything.com/work/3546993>`_ (*The Dannish Knight*),
+by Sophia de Mello Breyner (in Portuguese).
+A very short book and an example of children's stories done right.
+Again, I don't think there's an English translation.
+
+More to come...
+
+Medicine
+++++++++
+
+`Medical Physiology <https://www.amazon.com/Medical-Physiology-Walter-Boron-PhD/dp/1455743771>`_, Boron and Boulpaep.
+Highly detailed (maybe too much for med school), but its the only book I've seen
+that really explains physiology from the ground up.
+The writing is excelent and the drawings are suberb.
+I'll write a comprehensive review on this one when I have some time.
+
+`Clinical Microbiology Made Ridicuously Simple <https://www.amazon.com/Clinical-Microbiology-Made-Ridiculously-Simple/dp/1935660152>`_,
+by William Trattler. Great for Medical Students, bad for everyone else.
+Tries to teach microbiology and the basics of infectiology based on weird mnemonics and drawings.
+The text itself is very good, although it might be a little too simple.
+But in a subject like microbiology, if you know everything in that book, it'll be more than enough.
+
+Non-Fiction
+~~~~~~~~~~~
+
+
+`How the Mind Works <https://www.amazon.com/How-Mind-Works-Steven-Pinker/dp/0393334775>`_, Steven Pinker
+
+`Bad Science <https://www.amazon.com/Bad-Science-Quacks-Pharma-Flacks/dp/0865479186>`_, by Ben Goldacre.
+Should be required reading for all medical students and doctors.
+
+`Bad Pharma <https://www.amazon.com/Bad-Pharma-Companies-Mislead-Patients/dp/0865478066>`_, by Ben Goldacre.
+As above. This one was actually hard to finish.
+It gets kind of disgusting after a while, in the same way that *Schindler's List*
+gets disgusting.
+
+`Life of Bryan <http://www.imdb.com/title/tt0079470/>`_, by the Monty Python.
+
+`Lord of the Rings <http://www.imdb.com/title/tt0120737/>`_, by Peter Jackson.
+if you've never seen these movies, do so.
+Hardcore tolkien fans will complain it's not faithful wnough to the books,
+but they actually managed do make a good series of movies.
+The movies are certainly different from the books, but they're probably
+the best thing you can do given the time constraints available to the medium.
+
+`Tora! Tora! Tora! <http://www.imdb.com/title/tt0066473/>`_,
+directed by Richard Fleischer (American sequences), Kinji Fukasaku 
+and Toshio Masuda	(Japanese sequences).
+The story of the attack of Pearl Harbour.
+Extremely well done.
+The movie was directed and filmed by two distinct teams:
+a Japanese team that directed the parts told from the point of view of the Japanese and
+and American team that directed the part told from the point of view of the Americans.
+The best special effects I've probably seen in any movie
+(it helps that the planes are real planes and the boats are real boats).
+This is probably my favourite movie ever.
+
+`Snatch <http://www.imdb.com/title/tt0208092/>`_, Guy Ritchie.
+Somewhat violent but actually quite lighthearted.
+Even if the beginning doesn't seem very good, please keep watching
+untill the end. It's worth it.
+Plays hard and fast with vehicle collision physics.
+
+`Ben Hur (1959) <http://www.imdb.com/title/tt0052618/>`_, William Wyler.´
+An epic movie, set around the time of the death of Jesus Christ.
+A little too long, and the end, in which we witnes the torture and death of Christ
+feels a little  forced and detatched from the main storyline.
+Based on a the book
+`Ben-Hur: a Tale of the Christ <https://www.amazon.com/Ben-Hur-Tale-Christ-Complete-Unabridged/dp/1617203408>`_
+by Lew Wallace.
+Like *The Lord of The Rings*, the book and the movie
+are different beasts, and both are worth it in their own way.
+The book focuses more on the *christian* side of the story,
+while the movie focueses on the *jeweish* side.
+
+`Mississipi Burning <http://www.imdb.com/title/tt0095647/>`_, directed by Alan Parker.
+
+`The Prestige <http://www.imdb.com/title/tt0482571/>`_, directed by Christopher Nolan.
+Tells the story of the rivalry between two illusionists.
+I can't tell anything else becaus it might be a spoiler.
+Please, do not discuss this movie with anyone prior to watching it.
+
+`Enigma (2001) <http://www.imdb.com/title/tt0157583/>`_, directed by Michael Apted.
+It's a 100% fake story, inspired by the real events at Bletchley Park during World War II.
+The main character is a thinly veiled copy of Alan Turing, except he has a different name and is straight.
+Dispite being completely fake, the depiction of the code breaking operation
+matches what I've read in reputable sources.
+This is the best fictional depiction I've ever seen.
+I can't say that the movie respects *the letter* of History, but it certainly respects *the spirit*.
+
+I absolutely **do not** recommend `The Imitation Game <http://www.imdb.com/title/tt2084970/>`_.
+This one is a movie that claims to represent the Truth, but it ends up
+a confused mess that neither represents *the letter* nor *the spirit*.
+Apparenty all *geniuses* must be socially awkward and borderline autistic.
+Also, the code breaking operation was 8 guys and a woman in a barn,
+with a one-eyed Navy veteran checking up on them occasionally.
+There's `a website <http://www.informationisbeautiful.net/visualizations/based-on-a-true-true-story/>`_
+that rates some "based on a true story" movies according to how true they were to reality.
+*The Imitation Game* has the distincion of being the only one with a rating under 50%.
+The movie has absolutely no redeeming qualities whatsoever. Oh, wait...
+They made Turing gay! I guess that must count for something.
+
+.. comments::

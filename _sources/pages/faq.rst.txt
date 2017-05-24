@@ -1,0 +1,87 @@
+FAQ
+===
+
+.. contents::
+    :local:
+    :backlinks: none
+
+A FAQ? Have you been around for long enough to have a FAQ?
+----------------------------------------------------------
+
+Of course not.
+Using my precognition superpowers I'm antecipating what the frequently asked questions
+will be *in the future*.
+
+Who are you?
+------------
+
+The :doc:`About </pages/about>` page answers that question.
+
+Any recommendations outside your website?
+-----------------------------------------
+
+The, you can look ate the :doc:`Recommendations </pages/recommendations>` page.
+It's big, disorganized and incomplete but I'll keep working on it.
+
+
+Why do I do you use Disqus? Do you hate me and my privacy?
+----------------------------------------------------------
+
+Basically, for technical reasons.
+
+This website is a static website.
+It is more versatile and easier to mantain than most dynamic websites.
+The downside is that static websites don't mesh well with comments.
+There are ways to enable comments in static files using a service like
+`Disqus <https://disqus.com/>`_.
+
+Disqus does have some serious disadvantages, namely:
+
+* They like to inject ads in webpages with no easy way to drop out, especially when your website gets big.
+  The ads are usually very intrusive and distracting.
+  You can opt out of the ads by paying a fee, but I don't see the price listed anywhere,
+  which means it must be pretty expensive.
+* There is no easy way for an unregistered user to comment.
+  It is possible for those users to leave a comment, but the comment must be approved by a moderator before being visible.
+* Disqus is a privacy nightmare. They track users across several websites and probably sell you data
+  to the Devil.
+
+There are other alternatives, which I've chosen not to use (yet).
+
+Livefyre, Intense Debate, ...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+They don't seem to have a good revenue model.
+Some of them are dead and the rest are probably dying.
+
+Self hosted services
+~~~~~~~~~~~~~~~~~~~~
+
+They all need some third party service to handle spam.
+Spam in blog comments is a huge problem.
+
+It's trivially easy to clone something like disqus (with better performance),
+but the hard part is also spam, and most good spam prevention mechanisms
+involve user tracking.
+
+`Google ReCAPTCHA <https://www.google.com/recaptcha/>`_, for example, 
+is very effective in fighting spam, but it tracks users as much as Disqus, or even more.
+It has two advantage over disqus: I dont need to show any adds and it can load much faster.
+**I'll probably go down this road in the future.**
+
+Reddit
+~~~~~~
+
+Reddit archives comment threads after 6 months.
+This makes it unnecessarily hard to reply to old comments.
+Apart from that, it's a great platform for discussion, and creating an account is trivial.
+
+
+Alternatives
+~~~~~~~~~~~~
+
+Readers are encouraged to communicate by email (*cryptonomicon314@gmail.com*) and to discus
+my posts on Reddit or somewhere else.
+
+This site is hosted on GitHub, and if you feel like contributing in the nerdiest possible way,
+you're welcome to submit a pull request.

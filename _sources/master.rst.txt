@@ -1,0 +1,12 @@
+Sitemap
+=======
+
+
+.. toctree::
+   :maxdepth: 1
+
+   2017/05/24/medicine-and-physiology
+   pages/about
+   pages/faq
+   pages/recommendations
+
